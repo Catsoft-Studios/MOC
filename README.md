@@ -5,7 +5,7 @@ MOC: Matrix of Circumferences
 This code was created for a university assignment and may not be sold nor used for any lucrative purposes. We do not take any responsibilities of the injuries it may cause.
 The code provided does not take into account strange variable values (like placing the player onto an obstacle or out of the world space grid. If so, you will be alerted with segmentation faults or weird results.
 
-![moc](https://raw.github.com/mnogue/MOC/master/readme/moc.png)
+![moc](https://raw.github.com/Catsoft-Studios/MOC/master/readme/moc.png)
 
 Information
 -----------
